@@ -1,0 +1,30 @@
+{
+  "name": "jsnpm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j-alexander-acosta/jsnpm.git"
+  },
+  "keywords": [],
+  "author": "J. Alexander Acosta Z. <j_alex_acosta@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/j-alexander-acosta/jsnpm/issues"
+  },
+  "homepage": "https://github.com/j-alexander-acosta/jsnpm#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {
+    "date-fns": "^2.24.0",
+    "webpack": "^5.54.0"
+  },
+  "optionalDependencies": {
+    "eslint": "^7.32.0"
+  }
+}

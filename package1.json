@@ -1,0 +1,24 @@
+{
+  "name": "jsnpm",
+  "version": "1.0.0",
+  "description": "Construye un paquete para node",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j-alexander-acosta/jsnpm.git"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "package"
+  ],
+  "author": "J. Alexander Acosta Z. <j_alex_acosta@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/j-alexander-acosta/jsnpm/issues"
+  },
+  "homepage": "https://github.com/j-alexander-acosta/jsnpm#readme"
+}
